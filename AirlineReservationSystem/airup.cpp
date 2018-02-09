@@ -3,8 +3,6 @@
 #include<string.h>
 #include <bits/stdc++.h>
 
-using namespace std;
-
 
 class TicketVendor;
 class FlightReservation;
